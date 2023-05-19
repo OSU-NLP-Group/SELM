@@ -1,0 +1,40 @@
+save_weights = true
+trials = 1
+seed_source = "random"
+
+[data]
+file = [
+  "data/news/100-tokens/(0...10).txt",
+  "data/pubmed/100-tokens/(0...10).txt",
+  "data/random-words/100-tokens/(0...10).txt",
+  "data/random-bytes/100-tokens/(0...10).txt",
+]
+prompt_type = "uuid"
+
+[training]
+maximum_epochs = 10_000
+learning_rate = 2e-8
+report_interval = 10
+# learning rate scheduler
+lr_scheduler_type = "reduce-on-plateau"
+plateau_reduce_factor = 0.3
+
+[training.clipping]
+algorithm = "norm"
+value = 1e5
+
+[model]
+language_model_name_or_path = "gpt2"
+intrinsic_dimension = [
+  1_000,
+  3_000,
+  10_000,
+  30_000,
+]
+dropout = 0.0
+normalized = false
+
+[tokenizer]
+variety = "pretrained"
+pretrained = "gpt2"
+

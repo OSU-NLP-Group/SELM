@@ -1,0 +1,36 @@
+save_weights = true
+trials = 100
+seed_source = "random"
+
+[data]
+file = [
+  "data/random-sentences/100-tokens/0.txt",
+  "data/random-words/100-tokens/0.txt",
+  "data/random-letters/100-tokens/0.txt",
+  "data/random-bytes/100-tokens/0.txt",
+]
+prompt_type = "uuid"
+
+[training]
+maximum_epochs = 2000
+learning_rate = 2e-8
+report_interval = 50
+# learning rate scheduler
+lr_scheduler_type = "linear-const"
+warmup_epochs = 0
+decay_epochs = 2000
+decayed_proportion = 0.1
+
+[training.clipping]
+algorithm = "norm"
+value = 1e5
+
+[model]
+language_model_name_or_path = "gpt2"
+intrinsic_dimension = 10_000
+dropout = 0.0
+normalized = false
+
+[tokenizer]
+variety = "pretrained"
+pretrained = "gpt2"

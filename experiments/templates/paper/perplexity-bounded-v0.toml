@@ -1,0 +1,45 @@
+save_weights = true
+trials = 500
+seed_source = "random"
+
+[data]
+file = [
+  "data/wikipedia/chunked/0th-0.txt",
+  "data/wikipedia/chunked/25th-0.txt",
+  "data/wikipedia/chunked/50th-0.txt",
+  "data/wikipedia/chunked/75th-0.txt",
+  "data/wikipedia/chunked/100th-0.txt",
+  "data/pubmed/chunked/0th-0.txt",
+  "data/pubmed/chunked/50th-0.txt",
+  "data/pubmed/chunked/100th-0.txt",
+]
+prompt_type = "uuid"
+
+[training]
+maximum_epochs = 2000
+learning_rate = 2e-8
+report_interval = 50
+
+lr_scheduler_type = "linear"
+
+[training.clipping]
+algorithm = "norm"
+value = 1e5
+
+[training.regularization]
+variety = "distribution-difference-integral"
+weight = 4e9
+mean = 0
+std = 4e-7
+schedule = "linear"
+warmup = 500
+
+[model]
+language_model_name_or_path = "gpt2"
+intrinsic_dimension = 10_000
+dropout = 0.0
+normalized = false
+
+[tokenizer]
+variety = "pretrained"
+pretrained = "gpt2"

@@ -1,0 +1,28 @@
+# editor/python
+*.swp
+*.swo
+__pycache__/
+
+# data
+data/unversioned/
+venv/
+.venv/
+experiments/generated/
+relics/
+data/cached
+
+.DS_Store
+
+# writing & latex
+*.graffle
+*.log
+*.bbl
+*.bcf
+*.out
+*.run.xml
+*.blg
+*.fls
+*.aux
+*.fdb_latexmk
+*.pdf
+notebooks

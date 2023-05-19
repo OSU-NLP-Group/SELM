@@ -1,0 +1,97 @@
+Rebecca Coriam, 24, from Chester, fell overboard from the Disney Wonder near Mexico. Her body has not been found.
+Bahamas police investigated because the ship is registered in the island state, leaving it outside UK jurisdiction.
+There are calls for all suspected crimes at sea involving UK citizens to be investigated by the UK authorities.
+Former Deputy Prime Minister Lord Prescott said that should be the case whatever the ship's "flag of convenience" - where it is registered.
+Ms Coriam's MP Chris Matheson said he feared she was murdered and has called for a UK inquiry.
+The Cruise Lines International Association (CLIA) said disappearances overboard were "incredibly rare".
+Ms Coriam was last seen alive on 21 March 2011 on board the ship where she worked as a child minder.
+Her credit card, which was not found among her personal effects, was used after she vanished.
+Mr Matheson said: "I believe there's sufficient evidence to indicate a crime may well have taken place.
+"Whatever the circumstance, there's an obligation to investigate. My worst fear is Rebecca Coriam was murdered."
+He said it was a "real possibility" she had been killed and the case had not been properly investigated.
+"Now is the time for that investigation to take place," he said.
+Information collated in the police report from the Bahamas has been shared with the UK authorities, but not with Ms Coriam's family.
+Her father Mike said he was "totally baffled and it's upsetting as well" that the authorities in the UK can have a file with instructions not to disclose to the family.
+"We're the victims here as well," he said.
+Cheshire Police insist the report is not its property to share.
+But Mr Coriam said: "It's our daughter. There's been an investigation. Why hold it from us? "
+In addition to the frustration over the report, the family has been unable to hold an inquest or a funeral as Ms Coriam's remains have not been recovered.
+Under the Flags of Convenience system, ships are registered in offshore nations, often for tax purposes, and if crimes are committed on board it is up to the flag nation to investigate.
+National jurisdiction only extends up to 24 miles beyond a coastline - beyond that, the law of the country whose flag the ship flies applies.
+The Bahamas sent over police Supt Paul Rolle to investigate Rebecca's case.
+Lord Prescott called for an end to the flags arrangement and for a US-style system in which the FBI investigates maritime crimes involving US citizens, no matter where a ship is registered.
+Lord Prescott, a former ship steward, echoed calls for an inquiry, saying: "People don't know whether she died or she was thrown over the side.
+"What is so alarming is many people are going missing and nothing is being done about it, except for America."
+He said there was "almost like a conspiracy of silence" surrounding the case, adding there should be a change in the law as we "should be looking after our citizens".
+Bill Anderson, a maritime investigator, said Supt Rolle "only interviewed six people out of just over 2,000-odd people and closed the investigation".
+Mr Anderson is "fully convinced" something criminal happened to Rebecca.
+The CLIA, the trade body for the cruise industry, said it was the "safest mode of transport".
+Disney declined to comment on the case.
+You can see more about this story on Inside Out North West on BBC One on Monday 2 November at 19:30 and later on iPlayer.Those held in a series of raids in the capital Kuala Lumpur were mainly from Bangladesh, India and Pakistan, officials said.
+Machines to make fake passports and to forge Malaysian immigration documents were among the items seized.
+Security in the city is being tightened up ahead of the Southeast Asian Games which begin in just over a week's time.
+Monday's raids saw police break down doors and lead scores of people away in handcuffs to waiting buses. They were taken to police stations for investigation and screening.
+Authorities said they were targeting anyone with missing or fraudulent travel documents or who was believed to be affiliated with terror groups in Syria and Iraq.
+"We will detect and take action against foreigners suspected of having links with terrorists, especially those involved in activities in Syria," police counter-terror official Ayob Khan Mydin Pitchay, said, quoted by Free Malaysia Today.
+Officers were also equipped with devices to detect radioactive materials, police said, although no such items were found.Henrietta Yakubu, a spokesman for the aviation authority, said repair works were completed 24 hours ahead of schedule.
+An Ethiopian Airlines flight was the first to land on Tuesday morning.
+Flights had been diverted to Kaduna, 160 km (100 miles) from the capital, and some international carriers refused to operate the new route.
+Those airlines are now taking bookings for flights later this week.
+The runway at Nnamdi Azikiwe airport was supposed to be upgraded in 2002 - it was built in 1982 and was only meant to have a 20-year lifespan.
+There have been celebrations that the repair project was completed ahead of time but the fact the capital was without a functioning airport for more than a month highlights the state of Nigeria's crumbling infrastructure, the BBC's Martin Patience says.But it leaves the issue at the heart of the dispute unresolved: could the FBI have forced Apple to help it unlock the device?
+It is unlikely that this will be the last time a law enforcement agency tries to compel a tech company to help bypass security measures.
+It had been reported that there were about a dozen other cases in which the US Justice Department was pursuing court orders to force Apple to help its investigators.
+The highest profile of these was in Brooklyn, New York, where the FBI wanted access to an iPhone belonging to a defendant who had already pleaded guilty to drug dealing.
+In that case, a federal judge had rejected the DoJ's effort to invoke the All Writs Act - a three-centuries-old statute that allows court orders to be issued in circumstances where other laws don't apply.
+The DoJ had launched an appeal, but it is not yet clear if it will continue or drop it. Its decision may be based on whether the technique used to extract data from Farook's handset can be used in other cases.
+The New York case involved an iPhone 5S running the iOS 7 operating system, while the San Bernardino, California case was about an iPhone 5C running the more modern iOS 9. What works against one device might not work against the other.
+But assuming the US government will at some point try again to use the All Writs Act to force Apple or some other tech company to circumvent its data protection measures, it may take a Supreme Court ruling to determine whether this is truly within the authorities' power.
+At this point, there is nothing to compel the FBI to reveal how it was done, although Apple is likely to be pressing hard to find out.
+The tech firm's lawyers have already said they would want details of the technique to be made public if evidence from the cracked iPhone is later used at trial.
+But it could remain secret. There is scope within US law for the authorities to withhold the source of information if it was supplied to them on a confidential basis, and to protect sensitive intelligence-gathering methodologies.
+Not necessarily.
+The court order originally obtained by the FBI had instructed Apple to come up with a special version of its operating system that would have prevented Farook's iPhone from deleting its data or imposing long lockout periods if too many incorrect passcode guesses were made.
+However, the latest court filings do not say that someone else has now done this, but merely that some data stored on the device has been obtained.
+Researchers at the cybersecurity firm IOActive had proposed that one way of getting data off an iPhone would be to "de-cap" its memory chips.
+The process they described involved using acid and lasers to expose and copy ID information about the device so that efforts to crack its passcode could be simulated on another computer without risk of triggering the original iPhone's self-destruct tool.
+If indeed this is what happened, it is not easy and there's a high risk of causing so much damage to the phone that the desired data becomes irretrievable.
+By contrast, Cellebrite - a data forensics firm that has reportedly helped the FBI with the case - has previously discussed "bypassing" passcode locks rather than trying to deduce the number.
+But it is possible that doing this would yield access to only a limited amount of a handset's data.
+One other point is that Apple recently updated its iOS software.
+Each upgrade adds security fixes. So, if the FBI has indeed been alerted to a flaw in Farook's phone's security settings, that bug may no longer exist in devices that have installed iOS 9.3.
+Short of destroying the device, perhaps no.
+But you can use encryption-enabled apps to digitally scramble data.
+The chat tool Wickr Messenger, for instance, lets you set it so that you have to enter a password each time you log back into the app.
+Likewise, PQChat requires typing in a five-digit passcode of its own to get access.
+So, even if a cracked iPhone did give up the contents of its text messages, emails and WhatsApp chats, the contents of the apps mentioned above should remain safe.
+All this presumes, however, that the authorities do not manage to install spyware on your device. If that happens, all bets are off.
+As part of her efforts to pass the Investigatory Powers Bill, the home secretary Theresa May has said that tech firms wouldn't have hand over encryption keys or build backdoors into their platforms.
+But the law still makes mention of "equipment interference warrants".
+Campaigners at the Electronic Frontier Foundation have warned that these could be used to force Apple and others to insert new code into a device in order to help the authorities extract data, in a similar manner to the FBI's earlier order.
+The EFF adds that "matching gag orders" would prevent the firms from informing their customers or even their own lawyers about the act.
+Equipment interference warrants already exist under the UK's current law.
+And for now, the focus of Apple and other tech firms is getting the Investigatory Powers Bill amended to say that in the future the warrants could only be amended with the permission of a judge.
+But were there to be a case where the UK police attempted to coerce Apple to override its  protective measures, it might still resist - even if the fact never became public.The Markit/CIPS construction purchasing managers' index rose to 56 from 53.1, its highest level since December 2015. A figure above 50 indicates expansion.
+Builders also hired more workers and ordered more supplies to deal with an increase in new projects.
+Economists said the sector was recovering after a slow start to 2017.
+"A sustained rebound in residential building provides an encouraging sign that the recent a soft patch for property values has not deterred new housing supply," said Tim Moore, senior economist at IHS Markit.
+"Instead, strong labour market conditions, resilient demand and ultra-low mortgage rates appear to have helped boost work on residential development projects."
+The data contrasts with reports earlier this week suggesting greater caution by homebuyers and lenders.
+Building society Nationwide said house prices had fallen for a third consecutive in May - the longest run of decline since 2009, just after the financial crisis.
+Meanwhile, the Bank of England said loan approvals fell to a seven-month low in April.
+The latest Markit/CIPS construction reading was still much weaker than the post-crisis high of 64.6 seen in January 2014.
+However, the survey found there had been solid rises across the whole sector in May, including in civil engineering and commercial building.
+Input prices for construction firms also rose at the slowest pace for seven months, despite the prolonged weakness of the pound.
+Samuel Tombs, chief UK economist at Pantheon Macroeconomics, said the result suggested the Brexit vote's "dampening influence on construction activity is fading".
+But he added: "Note, however, that the PMI has had to exceed 53 in the past to signal growth.
+"May's PMI reading, therefore, is consistent with quarter-on-quarter growth in construction output of only about 0.5%."This is an account of the critical days leading up to the killings.
+6 - 8 July 1995: Bosnian Serb forces had laid siege to the Srebrenica enclave, where tens of thousands of civilians had taken refuge from earlier Serb offensives in north-eastern Bosnia.
+They were under the protection of about 600 lightly armed Dutch infantry forces. Fuel was running out and no fresh food had been brought into the enclave since May.
+Serb forces began shelling Srebrenica. Bosnian Muslim fighters in the town asked for the return of weapons they had surrendered to the peacekeepers but their request was refused.
+The Dutch commander called UN Headquarters in Sarajevo asking for "close air support" after shells and rockets landed close to refugee centres and observation posts manned by peacekeepers.
+9 July 1995: The Bosnian Serbs stepped up their shelling and thousands of refugees fled to the town from southern camps ahead of advancing Serbs, who attacked Dutch observation posts, taking about 30 soldiers hostage.
+One peacekeeper was fatally wounded when Bosnian Muslims fired on retreating Dutch troops.
+10 July 1995: Dutch Commander Col Karremans filed a request for UN air support after the Bosnian Serbs shelled Dutch positions. UN Commander Gen Janvier initially refused, but agreed after another request from the colonel. Serb attacks stopped before the planes arrived and strikes were postponed.
+Some 4,000 refugees were in the town by the evening and there was panic on the streets. Large crowds were gathered around the Dutch positions.
+The Dutch commander told town leaders that Nato planes would launch massive air attacks against the Serbs if they had not withdrawn from the safe area by 06:00 the following morning.
+11 July 1995: The Serb forces did not withdraw, but at 09:00 Col Karremans received word from Sarajevo that his request for close air support had been submitted on the wrong form. At 10:30, the resubmitted request

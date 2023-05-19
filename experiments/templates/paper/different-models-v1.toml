@@ -1,0 +1,36 @@
+save_weights = true
+trials = 1
+seed_source = "random"
+
+tokenizer = "pretrained"
+
+[data]
+file = [
+  "data/news/100-tokens/(0...10).txt",
+]
+prompt_type = "uuid"
+
+[training]
+maximum_epochs = 10_000
+learning_rate = 2e-8
+report_interval = 10
+# learning rate scheduler
+lr_scheduler_type = "linear-const"
+warmup_epochs = 0
+decay_epochs = 2000
+decayed_proportion = 0.1
+
+[training.clipping]
+algorithm = "norm"
+value = 1e5
+
+[model]
+language_model_name_or_path = [ 
+  "flan-t5-smalll"
+]
+intrinsic_dimension = [ 
+  10_000 
+]
+dropout = 0.0
+normalized = false
+pretrained = [ true, false ]

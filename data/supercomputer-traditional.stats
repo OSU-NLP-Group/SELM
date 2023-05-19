@@ -1,0 +1,58 @@
+des3
+real: 0.520
+real: 0.507
+real: 0.525
+real: 0.528
+real: 0.524
+real: 0.525
+real: 0.531
+real: 0.511
+real: 0.505
+real: 0.531
+plaintext-size: 16322880
+ciphertext-size: 16322904
+
+
+aes256
+real: 0.023
+real: 0.030
+real: 0.029
+real: 0.022
+real: 0.022
+real: 0.022
+real: 0.026
+real: 0.031
+real: 0.025
+real: 0.024
+plaintext-size: 16322880
+ciphertext-size: 16322912
+
+
+camellia256
+real: 0.108
+real: 0.108
+real: 0.121
+real: 0.112
+real: 0.109
+real: 0.109
+real: 0.102
+real: 0.097
+real: 0.109
+real: 0.105
+plaintext-size: 16322880
+ciphertext-size: 16322912
+
+
+cast5-cfb
+real: 0.168
+real: 0.157
+real: 0.166
+real: 0.170
+real: 0.167
+real: 0.159
+real: 0.156
+real: 0.157
+real: 0.148
+real: 0.172
+plaintext-size: 16322880
+ciphertext-size: 16322896
