@@ -2,6 +2,8 @@
 
 Code and data for [SELM](https://samuelstevens.me/research/encryption) research project.
 
+![teaser-gif-cropped](https://github.com/OSU-NLP-Group/SELM/assets/26638161/b7484c1f-84da-45a9-ba69-0c921c5d87cf)
+
 ## Table of Contents
 
 1. Introduction
