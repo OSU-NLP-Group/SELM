@@ -2,16 +2,13 @@
 Script to encrypt a file using GPT-2 (124M)
 """
 import argparse
-import datetime
-import logging
+import os
 
-import preface
 import torch
-import relic
 
-from src import accelerate, config, evaluating, modeling, tokenizing, training
+from src import config, logging, modeling, tokenizing, training
 
-logger = logging.getLogger("SELM")
+logger = logging.init("SELM")
 
 
 def parse_args():
@@ -37,6 +34,7 @@ def new_cfg(int_dim, file):
             int_dim,
             dropout=0.0,
             int_dim_dropout=0.0,
+            normalized=False,
         ),
         tokenizer="pretrained",
         data=config.DataConfig(file),
@@ -62,9 +60,6 @@ def new_cfg(int_dim, file):
             ),
         ),
         trials=1,
-        save_weights=True,
-        seed_source="config",
-        seed=0,
     )
 
 
@@ -79,4 +74,7 @@ if __name__ == "__main__":
 
         _, model = training.train(model, dataset, tokenizer, exp_cfg)
 
-        model.save(f"{file}.enc")
+        torch.save(
+            model.get_intrinsic_dimension_vector.detach(),
+            f"{os.path.basename(file)}.enc",
+        )

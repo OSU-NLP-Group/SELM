@@ -1,4 +1,3 @@
-"""Install Compacter."""
 import setuptools
 import torch
 from torch.utils.cpp_extension import BuildExtension, CUDAExtension

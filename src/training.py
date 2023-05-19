@@ -463,6 +463,7 @@ def train(
     Adds results to `experiment` during training in case training doesn't finish in time.
     """
     if experiment is None:
+        trial = {}
         relic_helpers.disable()
     else:
         trial = experiment.add_trial({})
@@ -600,7 +601,7 @@ def train(
 
         # training loss
         logger.info(
-            f"Epoch {epoch + 1} had a training loss of {trial['training_losses'][-1]:.4f}."
+            f"Epoch {epoch + 1} had a training loss of {loss:.4f}."
         )
 
         # training speed
